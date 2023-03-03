@@ -70,6 +70,7 @@ nav img {
 }
 
 .text-box h1{
+  font-family: 'Gloock', serif;
   font-size: 50px;
 }
 
@@ -147,7 +148,7 @@ nav .bi {
 
   p {
     color: #000000;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
